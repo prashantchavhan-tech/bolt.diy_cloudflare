@@ -264,6 +264,7 @@ export class ImportExportService {
       Mistral: '',
       OpenAILike: '',
       Together: '',
+      Llama: '',
       xAI: '',
       Perplexity: '',
       Cohere: '',
